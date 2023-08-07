@@ -562,7 +562,7 @@ class Department
     total
   end
 end
-
+# comapny
 class Company
   attr_accessor :name, :departments
 
